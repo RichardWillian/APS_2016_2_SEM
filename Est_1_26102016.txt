@@ -1,0 +1,14 @@
+Amonia			0,3829		692
+Bromo			0,4545		599
+Dio.DeCloro		0,3838		335
+Fenois			0,2323		409
+Fluoreto		0,4040		645
+Glicol			0,2991		232
+Nitrato			0,2222		347
+Nitrito			0,2348		821
+Oxigenio		0,3636		330
+Ozonio			0,4949		676
+Permanganato		0,3131		501
+Sulfato			0,4848		673
+Sulfito			0,4563		416
+Zinco			0,3535		631

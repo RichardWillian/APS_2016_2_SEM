@@ -1,0 +1,11 @@
+Professor,
+
+   Não foi encontrado dados para usar no programa, então utilizamos os dados 
+passados como exemplo no site onde o senhor passou os objetivos do APS.
+   É necessário também que o documento esteja junto a pasta do executáve, para 
+que dessa forma possam ser lidos corretamente pelo programa.
+
+
+Atenciosamente.
+
+Alunos 2º Semestre Ciência da Computação
